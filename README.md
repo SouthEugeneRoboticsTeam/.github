@@ -1,4 +1,4 @@
-# SERT 2525
+# SERT 2521
 We are South Eugene Robotics Team, an FRC team based in Eugene, Oregon.
 
 [![Instagram Badge](https://img.shields.io/badge/-southeugenerobotics-e56969?style=flat-round&logo=instagram&logoColor=white&link=https://instagram.com/southeugenerobotics/)](https://instagram.com/southeugenerobotics)
